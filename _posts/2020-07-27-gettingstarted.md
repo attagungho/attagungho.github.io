@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Done is better than perfect"
+comments : true
 ---
 
 # Welcome
@@ -9,6 +10,7 @@ title:  "Done is better than perfect"
 
 **일단** 만들고 굴리기로 했다.
 
-# 외부링크 걸어지나?
+#### 외부링크 걸어지나?
 
-https://jekyllrb.com/docs/posts/
+<https://jekyllrb.com/docs/posts/>
+[Jekyll](https://jekyllrb.com/docs/posts/)
