@@ -95,9 +95,9 @@ analytics:
 author:
   name             : "AttaGungho"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "'Done' is better than perfect"
-  location         : ""
-  email            :
+  bio              : 
+  location         : 
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
